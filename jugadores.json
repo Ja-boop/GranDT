@@ -1,0 +1,130 @@
+{
+    "count": 22,
+    "results": [
+        {
+            "nombre": "Esteban Andrada",
+            "equipo": "Club Atletico Boca Juniors",
+            "valor": 8000000
+        },
+
+        {
+            "nombre": "Gerónimo Rulli",
+            "equipo": "Montpellier",
+            "valor": 8000000
+        },
+
+        {
+            "nombre": "Lisandro Lopez",
+            "equipo": "Club Atletico Boca Juniors",
+            "valor": 2800000
+        },
+
+        {
+            "nombre": "Virgil Van Dijk",
+            "equipo": "Liverpool FC",
+            "valor": 80000000
+        },
+
+        {
+            "nombre": "Junior Alonso",
+            "equipo": "Club Atletico Boca Juniors",
+            "valor": 2400000
+        },
+
+        {
+            "nombre": "Gerard Piqué",
+            "equipo": "FC Barcelona",
+            "valor": 20000000
+        },
+
+        {
+            "nombre": "Trent Alexander-Arnold",
+            "equipo": "Liverpool FC",
+            "valor": 99000000
+        },
+
+        {
+            "nombre": "Julio Buffarini",
+            "equipo": "Club Atletico Boca Juniors",
+            "valor": 1600000
+        },
+
+        {
+            "nombre": "Frank Fabra",
+            "equipo": "Club Atletico Boca Juniors",
+            "valor": 3200000
+        },
+
+        {
+            "nombre": "Lionel Messi",
+            "equipo": "FC Barcelona",
+            "valor": 112000000
+        },
+
+        {
+            "nombre": "Kevin De Bruyne",
+            "equipo": "Manchester City",
+            "valor": 120000000
+        },
+
+        {
+            "nombre": "Jorman Campuzano",
+            "equipo": "Club Atletico Boca Juniors",
+            "valor": 2000000
+        },
+
+        {
+            "nombre": "Sergio Busquets",
+            "equipo": "FC Barcelona",
+            "valor": 28000000
+        },
+
+        {
+            "nombre": "Frankie De Jong",
+            "equipo": "FC Barcelona",
+            "valor": 72000000
+        },
+
+        {
+            "nombre": "Arturo Vidal",
+            "equipo": "FC Barcelona",
+            "valor": 11000000
+        },
+
+        {
+            "nombre": "Cristiano Ronaldo",
+            "equipo": "Juventus",
+            "valor": 60000000
+        },
+
+        {
+            "nombre": "Sebastian Villa",
+            "equipo": "Club Atletico Boca Juniors",
+            "valor": 5500000
+        },
+
+        {
+            "nombre": "Lautaro Martinez",
+            "equipo": "Inter De Milan",
+            "valor": 64000000
+        },
+
+        {
+            "nombre": "Dario Benedetto",
+            "equipo": "Olympique de Marsella",
+            "valor": 12000000
+        },
+
+        {
+            "nombre": "Toto Salvio",
+            "equipo": "Club Atletico Boca Juniors",
+            "valor": 6500000
+        },
+
+        {
+            "nombre": "Mohamed Salah",
+            "equipo": "Liverpool FC",
+            "valor": 120000000
+        }
+    ]
+}
